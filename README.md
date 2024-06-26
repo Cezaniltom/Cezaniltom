@@ -16,3 +16,9 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div><br/>
 
+## Entre em contato
+
+<div style="display: inline_block"<br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/cezaniltom/)
+</div><br/>
+
