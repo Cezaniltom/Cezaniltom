@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Cezaniltom! 🚀
 
-![Cezaniltom GitHub stats](https://github-readme-stats.vercel.app/api?username=cezaniltom&show_icons=true&theme=dracula)
+![Cezaniltom GitHub stats](https://github-readme-stats.vercel.app/api?username=cezaniltom&show_icons=true&theme=dracula)<br>
+<span align="right"><img src="https://komarev.com/ghpvc/?username=Cezaniltom-dev&label=Você%20é%20o%20visitante%20nº&color=0e75b6&style=flat" alt="Cezaniltom"/></span>
+
 
 
 ## Tecnologias que uso no meu dia
