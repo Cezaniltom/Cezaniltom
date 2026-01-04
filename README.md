@@ -1,16 +1,18 @@
-### Olá! Eu sou o Cezaniltom! 🚀
+<div align="left">
 
-![Cezaniltom GitHub stats](https://github-readme-stats.vercel.app/api?username=cezaniltom&show_icons=true&theme=dracula&hide_border=true&align=left)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=E3E3E3&background=00000000&center=false&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Cezaniltom!;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Construindo+solu%C3%A7%C3%B5es+modernas." alt="Typing SVG" />
+</a>
+
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Cezaniltom-dev&label=Visitantes&color=151515&style=for-the-badge" alt="Cezaniltom" />
 
 ---
 
-## 💻 Tecnologias
+## 💻 Stack Tecnológica
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/html5-151515?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-151515?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-151515?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-151515?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-151515?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-151515?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -40,7 +42,7 @@
 
 ---
 
-## 📫 Entre em contato
+## 📫 Entre em Contato Comigo!
 
 <a href="https://www.linkedin.com/in/cezaniltom-silva/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank">
@@ -48,3 +50,5 @@
 <a href="mailto:cezaniltom@outlook.com">
   <img src="https://img.shields.io/badge/-Email-151515?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4" target="_blank">
 </a>
+
+</div>
