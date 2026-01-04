@@ -11,8 +11,8 @@
 ## 💻 Stack Tecnológica
 
 ### Front-end
-![HTML](https://img.shields.io/badge/html5-151515?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-151515?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html-151515?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-151515?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-151515?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-151515?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
